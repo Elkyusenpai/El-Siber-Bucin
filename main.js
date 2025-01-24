@@ -1,4 +1,4 @@
-document.addEventListener('contextmenu', function(e) {
+x    document.addEventListener('contextmenu', function(e) {
     e.preventDefault();
 });
 
@@ -10,7 +10,7 @@ document.addEventListener('keydown', function(e) {
 
 const messages = [
     "Tap dimana aja yaaa",
-    "hey kamu ❤️",
+    "alloo raraaa❤️",
     "aku mau ngomong sesuatu nih",
     "coba pencet",
     "pencet lagi",
@@ -26,7 +26,7 @@ const messages = [
     "padahal",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "i love you❤️",
+    "i love you Raraaa❤️",
     "bjiirlah",
     "coba pencet tombol dibawah ini 💝"
 ];
