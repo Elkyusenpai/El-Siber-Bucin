@@ -26,7 +26,7 @@ const messages = [
     "padahal",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "i love you Raraaa❤️",
+    "i love you Talitaa❤️",
     "bjiirlah",
     "coba pencet tombol dibawah ini 💝"
 ];
